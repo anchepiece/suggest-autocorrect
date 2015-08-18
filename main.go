@@ -125,9 +125,9 @@ func main() {
 	flag.Parse()
 	// fmt.Println(Name)
 
-	simpleExample3()
-	simpleExample2()
-	simpleExample()
+	// simpleExample3()
+	// simpleExample2()
+	// simpleExample()
 
 	if *flagQuery == "" || *flagCommands == "" {
 		fmt.Println("Error: must specify both a query (-q) and the possible commands (-c)")

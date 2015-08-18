@@ -4,7 +4,8 @@
 
 A console based tool to return the closest match in a list
 
-Example console based implementation of the suggest library.
+Example console based implementation of the suggest library:
+
 [github.com/anchepiece/suggest](https://github.com/anchepiece/suggest)
 
 
@@ -15,13 +16,8 @@ Example console based implementation of the suggest library.
 		[-d (disables autocorrect)]
 
 
-
 ## TODO
-- [ ] Boost prefix
 - [ ] Complete testing 
-- [ ] Web backend service
-- [ ] Command-line help usage example 
-- [ ] Ideas as to other applications
 
 ## License
 
