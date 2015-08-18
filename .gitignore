@@ -1,0 +1,7 @@
+
+# Ignore executable
+suggest-autocorrect
+
+# Ignore go test -coverprofile
+*.out
+
