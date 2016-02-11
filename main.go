@@ -167,7 +167,7 @@ func main() {
 
 	m, err := s.Query(*flagQuery)
 	if err != nil {
-		fmt.Println("An error occurred: %v", err)
+		fmt.Printf("An error occurred: %v\n", err)
 	}
 
 	if len(m.Matches) == 1 {
